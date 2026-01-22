@@ -51,7 +51,7 @@ install_requires = [
     "filelock==2.0.6",
     "pathlib==1.0.1",
     "portpicker==1.1.1",
-    "wheel==0.34.2"
+    "wheel==0.46.2"
 ]
 
 data_files = (find_data_files("test_data") +
